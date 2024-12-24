@@ -1,6 +1,6 @@
 # ShellSage - GPT Terminal Chatbot
 
-This project is a GPT-powered chatbot that runs directly in the terminal. You can interact with the OpenAI language model in real time, ask questions, and get responses directly in your terminal.
+This project is a GPT-powered chatbot that runs directly in the terminal. You can interact with the OpenAI language model in real time, ask questions, and get responses directly in your terminal. It is highly useful in server environments without a graphical user interface, providing a straightforward and efficient way to access AI capabilities.
 
 ## Technologies Used
 <div>
