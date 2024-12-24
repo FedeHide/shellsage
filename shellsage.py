@@ -1,4 +1,5 @@
 #!./venv/bin/python
+# version 0.1.0
 from openai import OpenAI
 import rich.table
 import config
