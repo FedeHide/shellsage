@@ -71,3 +71,11 @@ python -u test.py
 ```
 
 In test.py, a function randomizes responses that do not make sense, but it allows you to see how the script works without needing a valid OpenAI API key.
+
+## Contribution
+
+See [Contributing Guide](CONTRIBUTING.md).
+
+## License
+
+© 2024-Present by [Fede Hide](https://github.com/FedeHide). Licensed under the MIT License.
